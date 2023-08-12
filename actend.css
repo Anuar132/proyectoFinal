@@ -1,0 +1,88 @@
+.body{
+margin: 7em;
+}
+
+header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo{
+  width: 60px;
+}
+
+
+.cont-nav{
+  width: 40%;
+}
+.nav{
+  display: flex;
+  align-items: center;
+
+ 
+  justify-content: space-between;
+}
+.section1{
+  margin: 1em 0;
+  font-size: 2em;
+  background-color: rgb(26, 105, 26);
+  color: white;
+  text-align: center;
+  padding:70px ;
+}
+.section{
+  margin: 2em 0;
+  color: white;
+  background-color: red;
+  display: flex;
+  text-align: center;
+  height: 500px;
+}
+.todo{
+  font-size: 40px;
+  width: 50%;
+  text-align: center;
+}
+.cont-img{
+  width: 50%;
+  overflow: hidden;
+}
+.img{
+  width: 100%;
+}
+.button{
+ padding: 10px;
+ color: white; 
+ background-color: transparent;
+ font-size: 0.5em;
+ border-radius: 100px;
+ border-color: white;
+}
+a{
+  font-weight: bold;
+  text-decoration: none;
+  color: black ;
+}
+.registro{
+  border-bottom: black;
+  border-radius: 100px;
+}
+.registra{
+  padding: 5px;
+  background-color: black;
+  border-radius: 100px;
+  color: white;
+}
+.inicio{
+  padding: 5px;
+  background-color: transparent;
+  border-color: black;
+  border-radius: 100px;
+}
+.footer{
+  font-size: 1.5em;
+}
+.image{
+ width: 50px;
+}
